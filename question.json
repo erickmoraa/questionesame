@@ -1,0 +1,1373 @@
+[
+    {
+        "question": "Qual è il significato del termine 'comunicazione digitale'?",
+        "answers": [
+            "Comunicazione di dati utilizzando segnali analogici.",
+            "Comunicazione di informazioni rappresentate in forma numerica attraverso mezzi elettronici.",
+            "Comunicazione orale tra persone tramite dispositivi.",
+            "Comunicazione utilizzando solo codici binari."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Chi è considerato uno dei fondatori dell'informatica moderna?",
+        "answers": [
+            "Mark Weiser.",
+            "Steve Jobs.",
+            "Alan Turing.",
+            "Charles Babbage."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Cosa descrive la 'Piramide DIKW'?",
+        "answers": [
+            "Una gerarchia tra utenti digitali.",
+            "La relazione tra dati, informazioni, conoscenza e saggezza.",
+            "Una scala di tecnologie ICT.",
+            "Un modello di comunicazione analogica."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qual è l'obiettivo principale del pensiero computazionale secondo Jeannette Wing?",
+        "answers": [
+            "Sviluppare algoritmi complessi.",
+            "Applicare processi mentali per formulare problemi risolvibili da un agente computazionale.",
+            "Creare applicazioni per computer.",
+            "Simulare comportamenti umani."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Quale componente fa parte dell'architettura di von Neumann?",
+        "answers": [
+            "Stampante laser.",
+            "Mouse.",
+            "CPU.",
+            "Antenna wireless."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Che cos'è il firmware?",
+        "answers": [
+            "Un software utilizzato solo per videogiochi.",
+            "Un tipo di hardware.",
+            "Un programma integrato in dispositivi elettronici per gestire funzioni di base.",
+            "Un'applicazione scaricabile dal web."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Cosa si intende per 'cloud computing'?",
+        "answers": [
+            "La memorizzazione locale di dati su un computer.",
+            "La trasmissione di dati tramite cavi.",
+            "L'accesso remoto a risorse e dati attraverso Internet.",
+            "L'utilizzo di dischi rigidi per l'archiviazione."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Che cosa rappresenta la realtà aumentata nel continuum di Milgram?",
+        "answers": [
+            "Una fusione completa tra reale e virtuale.",
+            "Un'alterazione dei sensi fisici.",
+            "Una sovrapposizione di elementi virtuali al mondo reale.",
+            "Una forma di realtà esclusivamente virtuale."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Che cosa indica il termine 'impresa 4.0'?",
+        "answers": [
+            "Aziende che non utilizzano tecnologie digitali.",
+            "Un'organizzazione che utilizza sistemi cyber-fisici per interconnessione.",
+            "Un'impresa focalizzata solo sulla produzione manuale.",
+            "Un'azienda che produce solo software."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Che ruolo ha l'astrazione nel pensiero computazionale?",
+        "answers": [
+            "Complicare la comprensione dei problemi.",
+            "Rendere il problema più accessibile eliminando dettagli irrilevanti.",
+            "Creare un nuovo linguaggio di programmazione.",
+            "Ridurre le informazioni a zero."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qual è l'elemento fondamentale per iniziare a progettare un format?",
+        "answers": [
+            "Una storia interessante e ben strutturata.",
+            "Una grafica accattivante.",
+            "Un team di marketing competente.",
+            "Un budget elevato."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Che cosa si intende con il termine 'intro' in una trasmissione radiofonica?",
+        "answers": [
+            "La parte centrale di una trasmissione.",
+            "Il periodo in cui si descrivono i prossimi contenuti prima che inizi una canzone.",
+            "Una parte senza contenuto utile durante la canzone.",
+            "Una fase per lanciare pubblicità a caso."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qual è la principale funzione di un 'jingle' in radio?",
+        "answers": [
+            "Riempire il tempo di trasmissione vuoto.",
+            "Creare un elemento identificativo del programma o dell’emittente.",
+            "Fornire informazioni dettagliate agli ascoltatori.",
+            "Interrompere la trasmissione per inserire errori tecnici."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qual è la differenza principale tra immagini raster e vettoriali?",
+        "answers": [
+            "Le immagini raster sono composte da linee; quelle vettoriali da pixel.",
+            "Le immagini raster si comprimono meglio di quelle vettoriali.",
+            "Le immagini raster perdono qualità quando ingrandite, quelle vettoriali no.",
+            "Le immagini raster sono più facili da modificare rispetto a quelle vettoriali."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Quale tra i seguenti NON è un formato di compressione audio?",
+        "answers": [
+            "MP3.",
+            "FLAC.",
+            "MIDI.",
+            "AIFF."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Che cosa significa 'lossless' nel contesto della compressione?",
+        "answers": [
+            "Compressione senza perdita di dati.",
+            "Compressione di un file in formato MP3.",
+            "Compressione con perdita di informazioni inutili.",
+            "Compressione che riduce il rumore audio."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Quale caratteristica rende il formato JPG unico rispetto ad altri formati di immagine?",
+        "answers": [
+            "Non applica mai compressione.",
+            "Supporta solo 256 colori.",
+            "Utilizza una compressione lossy per ridurre la dimensione del file.",
+            "È un formato vettoriale."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Qual è uno degli obiettivi principali della sigla in un podcast?",
+        "answers": [
+            "Riempire lo spazio iniziale con suoni casuali.",
+            "Rafforzare l'identità del brand del podcast.",
+            "Creare un contenuto lungo senza valore informativo.",
+            "Servire esclusivamente per decorare l'introduzione."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cosa indica la sigla 'PPI' quando si parla di immagini digitali?",
+        "answers": [
+            "Pixels Per Inch.",
+            "Polygons Per Image.",
+            "Points Per Inch.",
+            "Pixels Per Image."
+        ],
+        "correct": 0
+    },
+
+
+    {
+        "question": "Qual è la principale differenza tra hardware e software?",
+        "answers": [
+            "L'hardware è il componente fisico di un computer, mentre il software è il programma che lo fa funzionare.",
+            "L'hardware è un programma che gira su un computer, mentre il software è la macchina fisica.",
+            "L'hardware è il sistema operativo, mentre il software è l'applicazione.",
+            "L'hardware è solo la memoria di un computer."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Che cosa significa 'Open Source' in informatica?",
+        "answers": [
+            "Software i cui codici sorgenti sono aperti e liberamente accessibili.",
+            "Software che è gratuito per l'utente.",
+            "Software che può essere utilizzato solo da grandi aziende.",
+            "Software sviluppato esclusivamente da governi."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa si intende per 'big data'?",
+        "answers": [
+            "Dati di piccole dimensioni che vengono analizzati in tempo reale.",
+            "Dati raccolti da piccoli database.",
+            "Grandi volumi di dati complessi che vengono analizzati per estrarre informazioni utili.",
+            "Dati provenienti da un singolo sistema di analisi."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Quale linguaggio di programmazione è noto per essere utilizzato per lo sviluppo web?",
+        "answers": [
+            "C++",
+            "Python",
+            "JavaScript",
+            "Ruby"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Cosa significa il termine 'HTTP'?",
+        "answers": [
+            "Hyper Text Transfer Protocol",
+            "High Transmission Text Protocol",
+            "High Text Transfer Protocol",
+            "Hyper Text Transmission Protocol"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa rappresenta l'IP in una rete informatica?",
+        "answers": [
+            "Internet Protocol",
+            "Internal Protocol",
+            "International Protocol",
+            "Interconnected Protocol"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Quale tra questi è un esempio di sistema operativo?",
+        "answers": [
+            "Windows",
+            "Intel",
+            "HTML",
+            "Macintosh"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Che cosa si intende per 'algoritmo'?",
+        "answers": [
+            "Un programma informatico",
+            "Una sequenza di istruzioni definite per risolvere un problema",
+            "Un tipo di linguaggio di programmazione",
+            "Un software per computer"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Che cos'è il 'cloud computing'?",
+        "answers": [
+            "Un sistema di archiviazione su dischi fisici",
+            "La possibilità di utilizzare applicazioni e archiviare dati su server remoti accessibili via internet",
+            "Una tecnologia usata per comunicare tra computer",
+            "Un tipo di software per gestire computer"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cos'è un 'firewall' in informatica?",
+        "answers": [
+            "Un tipo di antivirus",
+            "Un sistema di protezione contro gli accessi non autorizzati in una rete",
+            "Un software per il backup dei dati",
+            "Un'applicazione di editing immagini"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qual è la funzione del DNS (Domain Name System)?",
+        "answers": [
+            "Controllare la sicurezza di una rete",
+            "Convertire gli indirizzi IP in nomi di dominio e viceversa",
+            "Gestire i dati dei server web",
+            "Controllare l'accesso ai file di rete"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cos'è un byte?",
+        "answers": [
+            "Una misura di velocità di Internet",
+            "Un'unità di misura per la memoria dei computer, pari a 8 bit",
+            "Una misura di capacità di elaborazione di un processore",
+            "Un'unità di misura per la risoluzione delle immagini"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Che cosa significa 'URL'?",
+        "answers": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Unique Resource Locator",
+            "Uniform Resource Link"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cosa si intende per 'sistema informatico'?",
+        "answers": [
+            "Un insieme di persone che utilizzano computer",
+            "Un insieme di hardware, software e reti che lavorano insieme per eseguire operazioni informatiche",
+            "Un software di gestione dei computer",
+            "Un tipo di linguaggio di programmazione"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cos'è un 'malware'?",
+        "answers": [
+            "Un tipo di virus antivirus",
+            "Un software che protegge i dati dagli attacchi",
+            "Un software dannoso progettato per danneggiare un sistema informatico",
+            "Un software per recuperare dati persi"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Cos'è una VPN (Virtual Private Network)?",
+        "answers": [
+            "Una rete pubblica per la condivisione dei dati",
+            "Un sistema per nascondere l'indirizzo IP e proteggere la connessione internet",
+            "Un tipo di firewall avanzato",
+            "Un'applicazione per monitorare le attività online"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Qual è la differenza tra software open source e software proprietario?",
+        "answers": [
+            "Il software open source è gratuito, il software proprietario è a pagamento",
+            "Il software open source è sviluppato da una comunità, mentre il software proprietario è sviluppato da aziende",
+            "Il software open source è più sicuro del software proprietario",
+            "Il software proprietario è sempre migliore di quello open source"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Che cos'è un router?",
+        "answers": [
+            "Un tipo di antivirus",
+            "Un dispositivo che connette reti diverse tra loro e gestisce il traffico dati",
+            "Un tipo di memoria per computer",
+            "Un'applicazione per l'elaborazione delle immagini"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cosa significa il termine 'data mining'?",
+        "answers": [
+            "La raccolta di dati in tempo reale",
+            "Il processo di analisi e estrazione di informazioni utili da grandi set di dati",
+            "L'archiviazione di dati su cloud",
+            "La sicurezza dei dati sensibili"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cosa significa 'AI' in informatica?",
+        "answers": [
+            "Automated Intelligence",
+            "Artificial Intelligence",
+            "Advanced Internet",
+            "Automated Interaction"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Quale tra queste è una caratteristica principale del machine learning?",
+        "answers": [
+            "È un tipo di intelligenza artificiale che permette alle macchine di apprendere dai dati",
+            "È una tecnologia che gestisce i sistemi operativi",
+            "È un linguaggio di programmazione",
+            "È un tipo di hardware utilizzato nei computer"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Che cosa si intende per 'deep learning'?",
+        "answers": [
+            "Un sottoinsieme del machine learning che simula il comportamento umano",
+            "Un tipo di connessione Internet ad alta velocità",
+            "Un'applicazione di machine learning che crea modelli 3D",
+            "Un sistema di memorizzazione dei dati in cloud"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa fa un motore di ricerca?",
+        "answers": [
+            "Controlla la sicurezza dei computer",
+            "Individua e recupera informazioni dal web in base alle query dell'utente",
+            "Gestisce le connessioni a Internet",
+            "Memorizza tutti i dati di navigazione online"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cosa significa 'data visualization'?",
+        "answers": [
+            "La visualizzazione dei dati attraverso grafici e tabelle per facilitare l'analisi",
+            "Il processo di protezione dei dati da accessi non autorizzati",
+            "Il processo di archiviazione dei dati su cloud",
+            "L'analisi dei dati in tempo reale"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cos'è un API (Application Programming Interface)?",
+        "answers": [
+            "Un sistema per programmare applicazioni mobile",
+            "Un insieme di regole che permette a diversi software di comunicare tra loro",
+            "Un programma per la gestione di reti",
+            "Un tipo di linguaggio di programmazione"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cos'è un 'blockchain'?",
+        "answers": [
+            "Un sistema di memorizzazione di informazioni criptate su una rete decentralizzata",
+            "Un tipo di criptovaluta",
+            "Un'applicazione mobile per scambi di criptovalute",
+            "Un sistema operativo distribuito"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa significa il termine 'IoT'?",
+        "answers": [
+            "Internet of Things",
+            "Information on Technology",
+            "Internet of Technology",
+            "Intelligent Online Tools"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Che cos'è un 'smartphone'?",
+        "answers": [
+            "Un tipo di computer",
+            "Un telefono mobile con funzioni avanzate come Internet e applicazioni",
+            "Un dispositivo utilizzato solo per telefonare",
+            "Un tipo di telecomando per TV"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Cosa significa 'Wi-Fi'?",
+        "answers": [
+            "Wireless Fidelity",
+            "Wired Fidelity",
+            "Wide Frequency Internet",
+            "Wireless Internet Fidelity"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa fa un 'server' in una rete informatica?",
+        "answers": [
+            "Esegue operazioni di calcolo intensivo",
+            "Gestisce l'archiviazione dei dati e fornisce risorse ai client nella rete",
+            "Controlla i dispositivi hardware collegati",
+            "Forza la connessione Internet di più dispositivi"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Che cos'è un 'browser'?",
+        "answers": [
+            "Un'applicazione utilizzata per navigare su Internet",
+            "Un programma per creare immagini digitali",
+            "Un tipo di sistema operativo",
+            "Un dispositivo di archiviazione"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cos'è una 'rete peer-to-peer' (P2P)?",
+        "answers": [
+            "Una rete in cui i dispositivi sono uguali e si connettono direttamente tra loro senza un server centrale",
+            "Una rete che utilizza un server centrale per gestire la comunicazione",
+            "Una rete esclusiva per server web",
+            "Una rete protetta tramite crittografia avanzata"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cos'è il 'phishing'?",
+        "answers": [
+            "Un tipo di attacco informatico mirato a ottenere informazioni sensibili tramite messaggi ingannevoli",
+            "Un virus informatico che distrugge i file",
+            "Un tipo di firewall per proteggere i server",
+            "Un programma di backup automatico"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa significa 'responsive design'?",
+        "answers": [
+            "Un approccio alla progettazione di siti web che adatta il layout alla dimensione dello schermo del dispositivo",
+            "Un sistema di archiviazione dei dati su cloud",
+            "Una tecnica per ottimizzare la velocità di caricamento delle pagine web",
+            "Un linguaggio di programmazione per siti web"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cos'è una 'cache' nel contesto informatico?",
+        "answers": [
+            "Un'area di memoria che conserva dati temporanei per velocizzare l'accesso alle informazioni",
+            "Un tipo di virus informatico",
+            "Un programma per la gestione della sicurezza dei dati",
+            "Un sistema di backup per file importanti"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Cosa si intende per 'bug' in informatica?",
+        "answers": [
+            "Un errore o malfunzionamento nel codice di un programma",
+            "Un tipo di virus",
+            "Un dispositivo di archiviazione",
+            "Un'applicazione per la gestione dei file"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Che cos'è la 'sicurezza informatica'?",
+        "answers": [
+            "La protezione dei sistemi informatici da accessi non autorizzati e danni",
+            "Il miglioramento delle prestazioni di un computer",
+            "Un tipo di hardware per proteggere le informazioni",
+            "Un linguaggio di programmazione per la protezione dei dati"
+        ],
+        "correct": 0
+    },
+        {
+            "question": "Che cos'è un 'byte'?",
+            "answers": [
+                "Un'unità di misura della velocità di trasmissione dati",
+                "Un'unità di misura della capacità di archiviazione, pari a 8 bit",
+                "Un tipo di linguaggio di programmazione",
+                "Un'applicazione di sicurezza"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cos'è un 'sistema operativo'?",
+            "answers": [
+                "Un programma che controlla e gestisce l'hardware e le risorse software di un computer",
+                "Un'applicazione che protegge il computer da virus",
+                "Un dispositivo che gestisce le connessioni di rete",
+                "Un programma di gestione delle risorse digitali"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cosa significa 'HTTP'?",
+            "answers": [
+                "High Transfer Text Protocol",
+                "Hyper Text Transmission Protocol",
+                "Hyper Text Transfer Protocol",
+                "High Text Transfer Protocol"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Che cos'è una 'tavola di routing'?",
+            "answers": [
+                "Un dispositivo di rete utilizzato per la gestione dei dati",
+                "Un software per creare pagine web",
+                "Una tabella che contiene le informazioni per indirizzare correttamente i pacchetti di dati nella rete",
+                "Un sistema operativo per router"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Cos'è la 'programmazione orientata agli oggetti'?",
+            "answers": [
+                "Un paradigma di programmazione che usa oggetti per modellare e gestire dati e comportamenti",
+                "Un tipo di linguaggio di programmazione",
+                "Una tecnica di ottimizzazione dei processi software",
+                "Un'applicazione per la gestione degli oggetti"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Qual è la differenza tra un linguaggio compilato e uno interpretato?",
+            "answers": [
+                "Il linguaggio compilato viene tradotto in codice macchina prima di essere eseguito, l'interpretabile viene eseguito direttamente",
+                "Il linguaggio compilato è più facile da imparare",
+                "Il linguaggio interpretato è più veloce",
+                "Il linguaggio compilato è più sicuro"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cosa significa 'IoT' (Internet of Things)?",
+            "answers": [
+                "Un sistema per connettere e comunicare tra loro dispositivi fisici e oggetti",
+                "Una piattaforma di comunicazione tra server e client",
+                "Un protocollo di sicurezza informatica",
+                "Una nuova versione del sistema operativo"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cosa è una 'LAN' (Local Area Network)?",
+            "answers": [
+                "Una rete di computer che copre una vasta area geografica",
+                "Una rete di computer che copre una piccola area, come una casa o un ufficio",
+                "Una rete che utilizza solo cavi ottici",
+                "Una rete di comunicazione satellitare"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cosa si intende con 'SEO' in ambito web?",
+            "answers": [
+                "Social Engagement Optimization",
+                "Search Engine Optimization",
+                "Server Endpoint Optimization",
+                "Secure External Online"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cos'è un 'web crawler'?",
+            "answers": [
+                "Un programma che raccoglie informazioni dalle pagine web per i motori di ricerca",
+                "Un'applicazione per analizzare i dati sui social media",
+                "Un sistema di backup per i siti web",
+                "Un linguaggio di programmazione per sviluppare applicazioni web"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cosa significa 'back-end' in un sito web?",
+            "answers": [
+                "La parte del sito web che l'utente vede e con cui interagisce",
+                "La parte che gestisce la logica del server e le operazioni dietro le quinte",
+                "Il sistema di database utilizzato per archiviare i dati",
+                "Il linguaggio utilizzato per creare il sito"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cos'è un 'framework' in sviluppo software?",
+            "answers": [
+                "Una libreria di funzioni predefinite che semplifica lo sviluppo di software",
+                "Un tipo di database utilizzato per lo sviluppo web",
+                "Un linguaggio di programmazione",
+                "Un sistema operativo"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Che cos'è un 'database relazionale'?",
+            "answers": [
+                "Un database che gestisce dati strutturati in tabelle con relazioni tra loro",
+                "Un database che può memorizzare solo dati non strutturati",
+                "Un database che supporta solo dati numerici",
+                "Un database basato su reti neurali"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cosa si intende con 'virtualizzazione' in informatica?",
+            "answers": [
+                "La creazione di copie fisiche di un computer",
+                "L'uso di software per emulare un ambiente hardware all'interno di un altro sistema",
+                "La gestione di dispositivi hardware su un singolo sistema",
+                "L'integrazione di diversi linguaggi di programmazione"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cos'è una 'API' (Application Programming Interface)?",
+            "answers": [
+                "Un'applicazione che gestisce la sicurezza del sistema",
+                "Un'interfaccia che permette a software diversi di interagire tra loro",
+                "Un sistema di archiviazione dati",
+                "Un tipo di linguaggio di programmazione"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Che cos'è un 'data center'?",
+            "answers": [
+                "Un'infrastruttura fisica che ospita server, software e sistemi di storage per la gestione dei dati",
+                "Un'applicazione per il salvataggio dei dati online",
+                "Un server remoto che gestisce i dati di un sito web",
+                "Un tipo di virus"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cos'è un 'malware'?",
+            "answers": [
+                "Un tipo di software progettato per danneggiare o compromettere un sistema informatico",
+                "Un programma antivirus",
+                "Un'applicazione di backup dati",
+                "Un sistema di protezione del firewall"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Cosa significa 'HTML'?",
+            "answers": [
+                "Hyper Text Markup Language",
+                "High Transmission Media Language",
+                "Hyper Transfer Management Language",
+                "Hyperlinked Text Management Layer"
+            ],
+            "correct": 0
+        },
+
+            {
+                "question": "Cosa significa il termine 'SSL'?",
+                "answers": [
+                    "Secure Socket Layer",
+                    "Secure System Layer",
+                    "Safe Secure Layer",
+                    "System Security Layer"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa fa un 'server DNS'?",
+                "answers": [
+                    "Gestisce l'invio di email tra server",
+                    "Converte i nomi di dominio in indirizzi IP",
+                    "Memorizza file di backup",
+                    "Gestisce la sicurezza delle reti"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Che cos'è un 'cloud storage'?",
+                "answers": [
+                    "Un dispositivo fisico per archiviare i dati",
+                    "Un sistema che consente di archiviare i dati su server remoti accessibili via Internet",
+                    "Un programma per la gestione delle reti",
+                    "Un tipo di linguaggio di programmazione"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cos'è un 'firewall'?",
+                "answers": [
+                    "Un'applicazione di backup dati",
+                    "Un dispositivo di sicurezza che monitora e controlla il traffico di rete",
+                    "Un tipo di virus",
+                    "Un sistema di archiviazione cloud"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cos'è un 'URL'?",
+                "answers": [
+                    "Universal Registration Locator",
+                    "Uniform Resource Locator",
+                    "Uniform Registration Locator",
+                    "Universal Resource Locator"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cos'è la 'sistematica' in informatica?",
+                "answers": [
+                    "Lo studio delle risorse informatiche",
+                    "La creazione di una rete di comunicazione tra i computer",
+                    "L'organizzazione e la gestione dei dati e delle informazioni",
+                    "Il processo di elaborazione dei dati"
+                ],
+                "correct": 2
+            },
+            {
+                "question": "Cosa si intende con 'Machine Learning'?",
+                "answers": [
+                    "L'abilità di una macchina di imparare attraverso dati senza essere esplicitamente programmata",
+                    "Un linguaggio di programmazione",
+                    "Un tipo di hardware per computer",
+                    "Un'applicazione per la gestione delle reti"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa 'scripting' in informatica?",
+                "answers": [
+                    "Scrivere codice che permette l'automazione di operazioni nel software",
+                    "Creare manualmente il codice sorgente di un programma",
+                    "Controllare il flusso di traffico nelle reti",
+                    "Programmare un linguaggio di basso livello"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è il 'Version Control'?",
+                "answers": [
+                    "Un sistema per gestire le versioni di un software durante lo sviluppo",
+                    "Un'applicazione di sicurezza per evitare attacchi informatici",
+                    "Un sistema di archiviazione per file di grandi dimensioni",
+                    "Un linguaggio di programmazione"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa 'sistema distribuito'?",
+                "answers": [
+                    "Un sistema che utilizza server centralizzati",
+                    "Un sistema in cui le risorse e i processi sono distribuiti tra diversi dispositivi e macchine",
+                    "Un sistema che utilizza solo una rete di computer",
+                    "Un sistema di protezione contro gli attacchi informatici"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cosa rappresenta il termine 'API'?",
+                "answers": [
+                    "Application Programming Interface",
+                    "Automated Programming Interface",
+                    "Application Protected Interface",
+                    "Algorithm Programming Interface"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa fa un 'dispositivo di rete'?",
+                "answers": [
+                    "Converte i dati digitali in formato analogico",
+                    "Gestisce e coordina il traffico di dati tra vari dispositivi in una rete",
+                    "Protegge i dati da virus",
+                    "Ottimizza la velocità di connessione di un singolo dispositivo"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cos'è un 'sistema di gestione di database' (DBMS)?",
+                "answers": [
+                    "Un programma che aiuta a creare applicazioni per computer",
+                    "Un software che consente di gestire e manipolare i dati all'interno di un database",
+                    "Un dispositivo per archiviare dati su dischi rigidi",
+                    "Un tipo di hardware che aumenta la velocità di lettura dei dati"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Che cos'è la 'criptografia'?",
+                "answers": [
+                    "Il processo di protezione dei dati attraverso l'uso di algoritmi per cifrarli",
+                    "Un tipo di linguaggio di programmazione",
+                    "Un software per il recupero dei dati",
+                    "Un sistema di gestione di database"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa si intende con 'user interface' (UI)?",
+                "answers": [
+                    "Il software che gestisce il sistema operativo",
+                    "La parte di un programma con cui l'utente interagisce direttamente",
+                    "Un sistema di sicurezza contro i virus",
+                    "La rete di connessione tra più dispositivi"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cos'è un 'robot' in informatica?",
+                "answers": [
+                    "Un software che esegue automaticamente determinati compiti",
+                    "Un dispositivo fisico utilizzato per assemblare componenti elettronici",
+                    "Un'applicazione per la gestione dei file",
+                    "Un linguaggio di programmazione per la gestione dei server"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è il 'cloud computing'?",
+                "answers": [
+                    "La memorizzazione e l'elaborazione dei dati su server remoti accessibili tramite Internet",
+                    "Un sistema per creare server",
+                    "Un tipo di database distribuito",
+                    "Un sistema di protezione per i dati aziendali"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa 'privacy' in informatica?",
+                "answers": [
+                    "La protezione delle informazioni sensibili e personali online",
+                    "La velocità con cui vengono trattati i dati",
+                    "Un tipo di protocollo di comunicazione",
+                    "Un sistema di archiviazione dei dati"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa il termine 'upload'?",
+                "answers": [
+                    "Caricare un file da un dispositivo a un altro, generalmente a un server",
+                    "Scaricare un file da un server al proprio dispositivo",
+                    "Eliminare un file dal proprio dispositivo",
+                    "Salvare un file su un disco esterno"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è un 'dispositivo di rete wireless'?",
+                "answers": [
+                    "Un dispositivo che consente la connessione alla rete tramite cavi",
+                    "Un dispositivo che consente la connessione alla rete senza l'uso di cavi",
+                    "Un'applicazione che protegge la rete da virus",
+                    "Un tipo di server per gestire il traffico di rete"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cosa significa 'sistema operativo'?",
+                "answers": [
+                    "Un'applicazione che gestisce la sicurezza del computer",
+                    "Un insieme di software che gestisce l'hardware di un computer",
+                    "Un tipo di linguaggio di programmazione",
+                    "Un programma che controlla l'accesso a Internet"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cos'è la 'realtà virtuale'?",
+                "answers": [
+                    "Un tipo di grafica che emula la realtà fisica tramite dispositivi elettronici",
+                    "Una tecnologia per gestire i dati nel cloud",
+                    "Un'applicazione di editing video",
+                    "Un sistema di protezione dei dati online"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Che cos'è un 'malware'?",
+                "answers": [
+                    "Un tipo di virus progettato per danneggiare o compromettere un sistema informatico",
+                    "Un tipo di software per la gestione di database",
+                    "Un'applicazione di sicurezza per computer",
+                    "Un programma per l'elaborazione di immagini"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è un 'smartphone'?",
+                "answers": [
+                    "Un tipo di telefono che permette la navigazione su Internet e l'uso di applicazioni",
+                    "Un tipo di computer portatile",
+                    "Un dispositivo di archiviazione dati",
+                    "Un'applicazione per la gestione della rete"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa si intende con 'backup'?",
+                "answers": [
+                    "La protezione dei dati attraverso software antivirus",
+                    "La copia di dati importanti su un supporto esterno o in cloud per evitare la perdita",
+                    "Un tipo di archiviazione dei dati temporanea",
+                    "Il processo di eliminazione dei file non necessari"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Cosa rappresenta il termine 'cybersecurity'?",
+                "answers": [
+                    "La protezione dei sistemi informatici da attacchi e danni",
+                    "Il miglioramento delle prestazioni di una rete",
+                    "Un tipo di software di editing",
+                    "Un linguaggio di programmazione per proteggere i dati"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa il termine 'protocollo' in informatica?",
+                "answers": [
+                    "Un tipo di hardware che ottimizza il traffico di rete",
+                    "Un insieme di regole che definiscono come i dati vengono trasmessi in una rete",
+                    "Un'applicazione per la gestione dei file",
+                    "Un software che protegge i dati in una rete"
+                ],
+                "correct": 1
+            },
+            {
+                "question": "Che cosa fa un 'router' in una rete?",
+                "answers": [
+                    "Controlla il traffico di rete e instrada i pacchetti di dati tra i dispositivi",
+                    "Salva i dati degli utenti in una rete",
+                    "Controlla la sicurezza della rete",
+                    "Ottimizza la velocità della rete"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa 'HTML'?",
+                "answers": [
+                    "Hyper Text Markup Language",
+                    "High Text Management Language",
+                    "Hyper Transfer Markup Language",
+                    "High Transfer Management Language"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è un 'dispositivo di rete'?",
+                "answers": [
+                    "Un dispositivo che trasmette dati attraverso la rete",
+                    "Un dispositivo che memorizza file",
+                    "Un dispositivo che gestisce la sicurezza dei dati",
+                    "Un tipo di server per la gestione del traffico di rete"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è la 'realizzazione di prototipi' in un progetto software?",
+                "answers": [
+                    "Creare una versione iniziale di un'applicazione per testare e migliorare le funzionalità",
+                    "Creare il progetto completo prima di implementarlo",
+                    "Lanciare un'applicazione in produzione",
+                    "Aggiungere una nuova funzionalità a un'applicazione esistente"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è un 'router' wireless?",
+                "answers": [
+                    "Un dispositivo che fornisce connettività Internet senza l'uso di cavi",
+                    "Un tipo di server che fornisce dati ai dispositivi connessi",
+                    "Un tipo di firewall",
+                    "Un dispositivo che ottimizza il traffico di rete"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cosa significa 'JavaScript'?",
+                "answers": [
+                    "Un linguaggio di programmazione utilizzato principalmente per lo sviluppo di applicazioni web interattive",
+                    "Un'applicazione di gestione dei dati",
+                    "Un tipo di server utilizzato per gestire i dati in una rete",
+                    "Un protocollo di comunicazione tra computer"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è il 'cloud computing'?",
+                "answers": [
+                    "Il processo di memorizzare dati e applicazioni su server remoti accessibili via Internet",
+                    "Un tipo di disco fisso per memorizzare i dati",
+                    "Un sistema operativo per server",
+                    "Un tipo di software antivirus"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è un 'dispositivo mobile'?",
+                "answers": [
+                    "Un dispositivo che consente di navigare e interagire con il web in mobilità",
+                    "Un tipo di computer fisso",
+                    "Un tipo di server per reti wireless",
+                    "Un software per la gestione della sicurezza"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Cos'è un 'sistema di backup'?",
+                "answers": [
+                    "Un sistema per archiviare copie dei dati per evitare la loro perdita",
+                    "Un sistema per creare copie di programmi",
+                    "Un sistema che ripristina i file di sistema dopo un attacco informatico",
+                    "Un sistema di protezione antivirus"
+                ],
+                "correct": 0
+            },
+
+                {
+                    "question": "Cos'è un 'data center'?",
+                    "answers": [
+                        "Un'infrastruttura che ospita server, applicazioni e sistemi di archiviazione per la gestione dei dati",
+                        "Un'applicazione di archiviazione dati",
+                        "Un tipo di disco rigido",
+                        "Un dispositivo di protezione contro virus"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'cloud storage'?",
+                    "answers": [
+                        "Archiviazione di dati su server remoti tramite Internet",
+                        "Archiviazione di dati su dischi rigidi locali",
+                        "Una forma di protezione contro attacchi informatici",
+                        "Un tipo di linguaggio di programmazione"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è un 'IP' in rete?",
+                    "answers": [
+                        "Un protocollo che definisce il formato dei pacchetti di dati",
+                        "Un indirizzo univoco assegnato a ogni dispositivo in una rete per consentire la comunicazione",
+                        "Un tipo di cavo di rete",
+                        "Un dispositivo che protegge la rete da attacchi"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Cosa si intende con 'big data'?",
+                    "answers": [
+                        "Dati di grandi dimensioni che vengono analizzati per trovare pattern e tendenze",
+                        "Dati archiviati in formato video",
+                        "Dati non strutturati memorizzati in file di testo",
+                        "Dati provenienti da un singolo dispositivo"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è un 'dispositivo di rete'?",
+                    "answers": [
+                        "Un dispositivo che permette la comunicazione tra computer e reti",
+                        "Un programma per la gestione di dati su server",
+                        "Un tipo di computer",
+                        "Un'applicazione per monitorare i dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'data mining'?",
+                    "answers": [
+                        "Il processo di analisi dei dati per identificare tendenze, pattern e correlazioni",
+                        "Il processo di raccolta di dati non strutturati",
+                        "Il processo di distruzione dei dati non più necessari",
+                        "Il processo di sicurezza dei dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è una 'VPN'?",
+                    "answers": [
+                        "Un sistema che permette una connessione sicura e privata tramite Internet",
+                        "Un tipo di firewall per proteggere i dati",
+                        "Un'applicazione di archiviazione dati",
+                        "Un tipo di virus"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa si intende con 'user experience' (UX)?",
+                    "answers": [
+                        "Il livello di sicurezza di un'applicazione",
+                        "L'esperienza dell'utente nell'interagire con un prodotto o servizio",
+                        "Il tempo necessario per il caricamento di una pagina web",
+                        "Un tipo di linguaggio di programmazione"
+                    ],
+                    "correct": 1
+                },
+                {
+                    "question": "Cos'è un 'firewall' in informatica?",
+                    "answers": [
+                        "Un programma o dispositivo che controlla e filtra il traffico di rete",
+                        "Un tipo di virus informatico",
+                        "Un software per la gestione dei database",
+                        "Un'applicazione di monitoraggio delle attività online"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'URL'?",
+                    "answers": [
+                        "Uniform Resource Locator",
+                        "Universal Registration Locator",
+                        "Uniform Real-time Locator",
+                        "Uniform Resource Link"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'compressione dei dati'?",
+                    "answers": [
+                        "Il processo di ridurre la dimensione di un file o dato per facilitare la memorizzazione o il trasferimento",
+                        "Il processo di proteggere i dati da attacchi",
+                        "Il processo di suddividere un file in più parti",
+                        "Il processo di crittografare i dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è un 'server' in una rete?",
+                    "answers": [
+                        "Un dispositivo che gestisce e fornisce risorse o dati ai client nella rete",
+                        "Un'applicazione di archiviazione dati",
+                        "Un tipo di dispositivo di protezione contro virus",
+                        "Un cavo utilizzato per la trasmissione di dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'agile' in metodologia di sviluppo software?",
+                    "answers": [
+                        "Un approccio di sviluppo che enfatizza la collaborazione, la flessibilità e la risposta ai cambiamenti",
+                        "Un tipo di linguaggio di programmazione",
+                        "Un tipo di sistema operativo",
+                        "Un sistema di protezione dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'bug' in informatica?",
+                    "answers": [
+                        "Un errore o difetto nel codice di un programma",
+                        "Un programma che ottimizza il traffico di rete",
+                        "Un tipo di dispositivo hardware",
+                        "Un'applicazione di editing grafico"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è la 'memoria RAM'?",
+                    "answers": [
+                        "Un tipo di memoria che memorizza i dati temporanei e permette l'accesso rapido",
+                        "Un tipo di disco rigido",
+                        "Un sistema di archiviazione di dati a lungo termine",
+                        "Un tipo di software"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'e-commerce'?",
+                    "answers": [
+                        "Il commercio elettronico, ovvero l'acquisto e la vendita di beni e servizi tramite Internet",
+                        "Un tipo di applicazione di gestione aziendale",
+                        "Un sistema di pagamento online",
+                        "Una rete di negozi fisici"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa rappresenta il termine 'SEO'?",
+                    "answers": [
+                        "Search Engine Optimization, ovvero ottimizzazione per i motori di ricerca",
+                        "Secure Enterprise Optimization",
+                        "System External Operations",
+                        "Server Enhancement Optimization"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'IoT' (Internet of Things)?",
+                    "answers": [
+                        "Un sistema di dispositivi interconnessi che scambiano dati attraverso Internet",
+                        "Un tipo di rete wireless",
+                        "Un'applicazione di gestione dei dati",
+                        "Un tipo di software per gestire dispositivi mobili"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è un 'API' (Application Programming Interface)?",
+                    "answers": [
+                        "Un'interfaccia che consente la comunicazione tra diverse applicazioni software",
+                        "Un programma antivirus",
+                        "Un tipo di firewall",
+                        "Un dispositivo hardware per la gestione della rete"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'protocollo' in informatica?",
+                    "answers": [
+                        "Un insieme di regole che definisce il formato di comunicazione tra dispositivi in una rete",
+                        "Un'applicazione per la gestione dei file",
+                        "Un tipo di virus informatico",
+                        "Un tipo di linguaggio di programmazione"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa si intende per 'virtualizzazione'?",
+                    "answers": [
+                        "Creazione di ambienti virtuali all'interno di un sistema fisico per simulare più macchine",
+                        "La creazione di più sistemi di backup",
+                        "L'archiviazione dei dati in una rete sicura",
+                        "Un processo di ottimizzazione dei dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è una 'rete VPN'?",
+                    "answers": [
+                        "Una rete privata virtuale che consente una connessione sicura tramite Internet",
+                        "Una rete wireless che utilizza frequenze alte",
+                        "Una connessione tra dispositivi mobili",
+                        "Una rete di backup per proteggere i dati"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'Big Data'?",
+                    "answers": [
+                        "Grandi volumi di dati che vengono analizzati per trovare pattern e tendenze",
+                        "Dati relativi a piccoli sistemi informatici",
+                        "Dati di sicurezza per proteggere i server",
+                        "Dati non strutturati provenienti da fonti locali"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è un 'server'?",
+                    "answers": [
+                        "Un dispositivo che fornisce risorse e servizi agli altri dispositivi in una rete",
+                        "Un'applicazione di backup dati",
+                        "Un tipo di dispositivo per la gestione della sicurezza",
+                        "Un tipo di firewall"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cos'è una 'rete LAN'?",
+                    "answers": [
+                        "Una rete di computer che connette dispositivi in una piccola area geografica",
+                        "Una rete che collega computer e server attraverso Internet",
+                        "Una rete di computer che utilizza solo la connessione wireless",
+                        "Un'applicazione di gestione delle reti aziendali"
+                    ],
+                    "correct": 0
+                },
+                {
+                    "question": "Cosa significa 'cloud storage'?",
+                    "answers": [
+                        "L'archiviazione dei dati su server remoti, accessibili tramite Internet",
+                        "La memorizzazione dei dati su dischi rigidi locali",
+                        "Un tipo di applicazione per il salvataggio dei file",
+                        "Un programma che gestisce le risorse cloud"
+                    ],
+                    "correct": 0
+                }
+
+]
+
+
+
+
+
+
