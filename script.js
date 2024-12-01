@@ -20,7 +20,6 @@ function startQuiz() {
     document.getElementById('result').classList.add('hidden');
     document.getElementById('quiz-container').classList.remove('hidden');
     document.getElementById('next-question').classList.add('hidden'); // Nasconde il pulsante "Prosegui"
-    document.getElementById('restart').disabled = false; // Riabilita il pulsante "Reset"
     showQuestion();
 }
 
@@ -36,8 +35,8 @@ function showQuestion() {
     const answersElement = document.getElementById('answers');
     answersElement.innerHTML = ''; // Reset delle risposte
 
-    const shuffledAnswers = shuffleArray(Object.entries(question.options)); // Mescola le risposte
-    shuffledAnswers.forEach(([key, answer]) => {
+    // Visualizza le risposte nell'ordine originale (A, B, C, D)
+    Object.entries(question.options).forEach(([key, answer]) => {
         const button = document.createElement('button');
         button.textContent = `${key}: ${answer}`;
         button.addEventListener('click', () => checkAnswer(key));
@@ -77,7 +76,6 @@ document.getElementById('next-question').addEventListener('click', () => {
 
 // Pulsante di reset (Resetta il quiz)
 document.getElementById('restart').addEventListener('click', () => {
-    document.getElementById('restart').disabled = true; // Disabilita temporaneamente il pulsante "Reset"
     startQuiz(); // Riavvia il quiz
 });
 
@@ -87,13 +85,3 @@ function endGame() {
     document.getElementById('result').classList.remove('hidden'); // Mostra il risultato
     document.getElementById('final-score').textContent = `Game Over! Hai totalizzato ${score} punti su ${totalQuestions}!`;
 }
-
-// Funzione per mescolare un array (utile per mescolare le risposte)
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-}
-
