@@ -3239,6 +3239,366 @@
         },
         "correctAnswer": "A",
         "explanation": "Un sistema operativo distribuito tratta più CPU connesse come un unico sistema, garantendo coerenza e scalabilità."
+    },
+    {
+        "id": 241,
+        "question": "Che cosa viene suddiviso in pacchetti IP?",
+        "options": {
+            "A": "Musica",
+            "B": "Dati",
+            "C": "Indirizzi IP",
+            "D": "Testo casuale"
+        },
+        "correctAnswer": "B",
+        "explanation": "I dati vengono suddivisi in pacchetti per essere inviati sulla rete."
+    },
+    {
+        "id": 242,
+        "question": "Qual è il criterio principale per classificare le reti informatiche?",
+        "options": {
+            "A": "Il numero di dispositivi connessi",
+            "B": "La scala dimensionale",
+            "C": "La marca dei router",
+            "D": "Il tipo di software utilizzato"
+        },
+        "correctAnswer": "B",
+        "explanation": "Determinare la scala dimensionale aiuta a scegliere la topologia e tecnologia."
+    },
+    {
+        "id": 243,
+        "question": "Che cos'è una rete informatica?",
+        "options": {
+            "A": "Un sistema di nodi interconnessi tramite archi.",
+            "B": "Una rete televisiva.",
+            "C": "Un insieme di computer non connessi.",
+            "D": "Un sito web."
+        },
+        "correctAnswer": "A",
+        "explanation": "Una rete informatica è definita come un sistema di nodi interconnessi tramite archi."
+    },
+    {
+        "id": 244,
+        "question": "Che cosa rappresenta il termine 'Web 2.0'?",
+        "options": {
+            "A": "Una connessione internet più veloce.",
+            "B": "Un web leggibile e scrivibile dagli utenti.",
+            "C": "Un hardware avanzato.",
+            "D": "La fine di internet."
+        },
+        "correctAnswer": "B",
+        "explanation": "Il Web 2.0 è definito come una piattaforma dove gli utenti possono creare contenuti."
+    },
+    {
+        "id": 245,
+        "question": "Cosa significa ISP?",
+        "options": {
+            "A": "Internet Support Provider.",
+            "B": "Internet Service Provider.",
+            "C": "Internal System Provider.",
+            "D": "Internet Software Platform."
+        },
+        "correctAnswer": "B",
+        "explanation": "ISP sta per 'Internet Service Provider', il fornitore di accesso alla rete."
+    },
+    {
+        "id": 246,
+        "question": "Che cosa sono i nodi in una rete?",
+        "options": {
+            "A": "Dispositivi che permettono la connessione a Internet.",
+            "B": "Macchine chiamate host che comunicano tra loro.",
+            "C": "Sistemi per bloccare la rete.",
+            "D": "Router e switch che forniscono connessione Wi-Fi."
+        },
+        "correctAnswer": "B",
+        "explanation": "I nodi in una rete sono macchine chiamate host, che comunicano tra loro."
+    },
+    {
+        "id": 247,
+        "question": "Qual è il primo elemento di un URL?",
+        "options": {
+            "A": "Il nome dell'host",
+            "B": "Il protocollo",
+            "C": "Il percorso della risorsa",
+            "D": "Il numero di porta"
+        },
+        "correctAnswer": "B",
+        "explanation": "Il protocollo, come HTTP o HTTPS, è il primo elemento che specifica come accedere alla risorsa."
+    },
+    {
+        "id": 248,
+        "question": "Cos'è il linguaggio HTML?",
+        "options": {
+            "A": "Un linguaggio di programmazione complesso",
+            "B": "Un linguaggio per creare link tra pagine web",
+            "C": "Un linguaggio per marcare il testo piano con istruzioni visualizzabili dal browser",
+            "D": "Un linguaggio utilizzato esclusivamente nei server"
+        },
+        "correctAnswer": "C",
+        "explanation": "HTML è un linguaggio per aggiungere marcatori a un testo piano, interpretati dal browser."
+    },
+    {
+        "id": 249,
+        "question": "Qual è il ruolo di un browser web?",
+        "options": {
+            "A": "Generare pagine web dal nulla",
+            "B": "Interpretare il codice HTML per visualizzare pagine",
+            "C": "Conservare tutte le pagine web nel server",
+            "D": "Connettere direttamente i dispositivi fisici"
+        },
+        "correctAnswer": "B",
+        "explanation": "Il browser interpreta il codice HTML per visualizzare correttamente le pagine web."
+    },
+    {
+        "id": 250,
+        "question": "Qual è lo scopo principale del protocollo HTTP?",
+        "options": {
+            "A": "Generare contenuti dinamici",
+            "B": "Definire come client e server comunicano tramite messaggi",
+            "C": "Analizzare il contenuto di pagine web",
+            "D": "Garantire la sicurezza dei dati trasmessi"
+        },
+        "correctAnswer": "B",
+        "explanation": "HTTP stabilisce le regole per lo scambio di messaggi tra client e server."
+    },
+    {
+        "id": 251,
+        "question": "Qual è la funzione del proxy?",
+        "options": {
+            "A": "Bloccare virus",
+            "B": "Instradare pacchetti",
+            "C": "Agire come intermediario",
+            "D": "Elaborare immagini"
+        },
+        "correctAnswer": "C",
+        "explanation": "Il proxy funge da intermediario per alleggerire il carico e migliorare la sicurezza."
+    },
+    {
+        "id": 252,
+        "question": "Qual è la principale caratteristica delle reti geografiche (WAN)?",
+        "options": {
+            "A": "Copertura locale",
+            "B": "Copertura globale",
+            "C": "Connessione senza cavi",
+            "D": "Tecnologia infrarossa"
+        },
+        "correctAnswer": "B",
+        "explanation": "Le WAN collegano nodi su lunghe distanze."
+    },
+    {
+        "id": 253,
+        "question": "Quali sono le due principali categorie di servizi forniti dalle reti informatiche?",
+        "options": {
+            "A": "Servizi di sicurezza e intrattenimento.",
+            "B": "Servizi di comunicazione e di condivisione delle risorse.",
+            "C": "Servizi di archiviazione e manutenzione.",
+            "D": "Servizi di stampa e grafica."
+        },
+        "correctAnswer": "B",
+        "explanation": "Le reti informatiche offrono principalmente servizi di comunicazione e condivisione delle risorse."
+    },
+    {
+        "id": 254,
+        "question": "Qual è stato il contributo del World Wide Web Consortium (W3C)?",
+        "options": {
+            "A": "Sviluppare tecnologie di crittografia.",
+            "B": "Definire standard aperti per il web.",
+            "C": "Creare reti di social network.",
+            "D": "Progettare il primo browser."
+        },
+        "correctAnswer": "B",
+        "explanation": "Il W3C si occupa di mantenere il web libero e standardizzato."
+    },
+    {
+        "id": 255,
+        "question": "Qual è il nucleo centrale di Internet?",
+        "options": {
+            "A": "Un insieme di server aziendali.",
+            "B": "Una rete magliata di router interconnessi ad alta velocità.",
+            "C": "Dispositivi personali connessi.",
+            "D": "Satelliti geostazionari."
+        },
+        "correctAnswer": "B",
+        "explanation": "Il nucleo centrale è composto da router interconnessi per instradare i dati rapidamente."
+    },
+    {
+        "id": 256,
+        "question": "Quali dispositivi facilitano la comunicazione tra i nodi?",
+        "options": {
+            "A": "Host e server.",
+            "B": "Router, switch e access point.",
+            "C": "Modem e TV.",
+            "D": "Antenne satellitari e computer."
+        },
+        "correctAnswer": "B",
+        "explanation": "Router, switch e access point facilitano la comunicazione tra i nodi nella rete."
+    },
+    {
+        "id": 257,
+        "question": "Qual è la differenza principale tra IPv4 e IPv6?",
+        "options": {
+            "A": "L'IPv6 ha un numero maggiore di porte",
+            "B": "L'IPv4 utilizza 32 bit, mentre l'IPv6 utilizza 128 bit",
+            "C": "L'IPv4 supporta indirizzi unicast, mentre l'IPv6 no",
+            "D": "L'IPv6 è usato solo per dispositivi mobili"
+        },
+        "correctAnswer": "B",
+        "explanation": "IPv6 ha una capacità di trasmissione superiore a IPv4, poiché utilizza indirizzi a 128 bit."
+    },
+    {
+        "id": 258,
+        "question": "Cosa indica il termine Web 2.0?",
+        "options": {
+            "A": "Un web statico",
+            "B": "Un web dinamico con contenuti generati dagli utenti",
+            "C": "La nascita dei browser grafici",
+            "D": "Un nuovo protocollo di rete"
+        },
+        "correctAnswer": "B",
+        "explanation": "Il Web 2.0 descrive una fase in cui gli utenti potevano creare e condividere contenuti."
+    },
+    {
+        "id": 259,
+        "question": "Cosa significa che il protocollo HTTP è 'stateless'?",
+        "options": {
+            "A": "Non memorizza informazioni sulle richieste precedenti",
+            "B": "Conserva sempre i dati dell'utente",
+            "C": "Richiede la memorizzazione di tutti i dati sui client",
+            "D": "Memorizza lo stato del browser"
+        },
+        "correctAnswer": "A",
+        "explanation": "HTTP non mantiene informazioni di stato sul client dopo aver elaborato una richiesta."
+    },
+    {
+        "id": 260,
+        "question": "Qual è la principale differenza tra pagine statiche e dinamiche?",
+        "options": {
+            "A": "Le pagine dinamiche non richiedono connessioni HTTP",
+            "B": "Le pagine statiche sono generate da programmi lato server",
+            "C": "Le pagine dinamiche sono generate al momento in base a programmi",
+            "D": "Le pagine statiche utilizzano sempre database"
+        },
+        "correctAnswer": "C",
+        "explanation": "Le pagine dinamiche sono generate al momento in risposta alle richieste dell'utente."
+    },
+    {
+        "id": 261,
+        "question": "Qual è il protocollo principale utilizzato per l'invio di email?",
+        "options": {
+            "A": "FTP",
+            "B": "SMTP",
+            "C": "HTTP",
+            "D": "POP3"
+        },
+        "correctAnswer": "B",
+        "explanation": "SMTP (Simple Mail Transfer Protocol) è il protocollo standard per l'invio di email tra server."
+    },
+    {
+        "id": 262,
+        "question": "Qual è la funzione principale di un firewall?",
+        "options": {
+            "A": "Aumentare la velocità della rete",
+            "B": "Bloccare accessi non autorizzati",
+            "C": "Gestire indirizzi IP",
+            "D": "Creare copie di backup"
+        },
+        "correctAnswer": "B",
+        "explanation": "Il firewall protegge la rete monitorando e controllando il traffico in entrata e in uscita."
+    },
+    {
+        "id": 263,
+        "question": "Qual è la caratteristica principale della memoria volatile?",
+        "options": {
+            "A": "Mantiene i dati anche senza alimentazione elettrica",
+            "B": "Perde i dati quando viene tolta l'alimentazione",
+            "C": "È utilizzata solo per l'archiviazione permanente",
+            "D": "Non è accessibile dalla CPU"
+        },
+        "correctAnswer": "B",
+        "explanation": "La memoria volatile, come la RAM, perde i dati quando non è alimentata."
+    },
+    {
+        "id": 264,
+        "question": "Che cosa rappresenta un indirizzo IP?",
+        "options": {
+            "A": "Un indirizzo fisico della scheda di rete",
+            "B": "Un identificatore unico di un dispositivo su una rete",
+            "C": "Un protocollo per il trasferimento di file",
+            "D": "Un codice per crittografare i dati"
+        },
+        "correctAnswer": "B",
+        "explanation": "Un indirizzo IP identifica in modo univoco un dispositivo su una rete."
+    },
+    {
+        "id": 265,
+        "question": "Qual è l'obiettivo principale della crittografia?",
+        "options": {
+            "A": "Accelerare il trasferimento dei dati",
+            "B": "Proteggere le informazioni garantendo riservatezza e integrità",
+            "C": "Comprimere i file per il trasferimento",
+            "D": "Creare backup automatici"
+        },
+        "correctAnswer": "B",
+        "explanation": "La crittografia assicura che solo i destinatari autorizzati possano accedere alle informazioni."
+    },
+    {
+        "id": 266,
+        "question": "Qual è il formato standard per la trasmissione di dati nel Web semantico?",
+        "options": {
+            "A": "JSON",
+            "B": "XML",
+            "C": "RDF",
+            "D": "SQL"
+        },
+        "correctAnswer": "C",
+        "explanation": "RDF (Resource Description Framework) è il formato standard per descrivere dati nel Web semantico."
+    },
+    {
+        "id": 267,
+        "question": "Che cos'è un DNS (Domain Name System)?",
+        "options": {
+            "A": "Un sistema per gestire le connessioni Wi-Fi",
+            "B": "Un protocollo per trasferire dati",
+            "C": "Un sistema per tradurre nomi di dominio in indirizzi IP",
+            "D": "Un algoritmo di compressione"
+        },
+        "correctAnswer": "C",
+        "explanation": "Il DNS traduce i nomi di dominio (es. www.esempio.com) in indirizzi IP leggibili dalla rete."
+    },
+    {
+        "id": 268,
+        "question": "Qual è il vantaggio principale dell'utilizzo di una VPN?",
+        "options": {
+            "A": "Migliora la velocità di connessione",
+            "B": "Garantisce maggiore privacy e sicurezza",
+            "C": "Riduce il consumo di dati mobili",
+            "D": "Blocca pubblicità indesiderate"
+        },
+        "correctAnswer": "B",
+        "explanation": "Una VPN (Virtual Private Network) protegge i dati crittografando la connessione e nascondendo l'indirizzo IP."
+    },
+    {
+        "id": 269,
+        "question": "Qual è la funzione principale di un server web?",
+        "options": {
+            "A": "Memorizzare dati in modo permanente",
+            "B": "Fornire pagine web ai client che le richiedono",
+            "C": "Creare database dinamici",
+            "D": "Eseguire programmi lato client"
+        },
+        "correctAnswer": "B",
+        "explanation": "Un server web invia contenuti richiesti dai browser dei client, come pagine HTML."
+    },
+    {
+        "id": 270,
+        "question": "Che cosa indica il termine \"cloud storage\"?",
+        "options": {
+            "A": "La memorizzazione di dati in dispositivi locali",
+            "B": "L'archiviazione di dati su server remoti accessibili via Internet",
+            "C": "L'archiviazione temporanea di dati",
+            "D": "La crittografia di file in locale"
+        },
+        "correctAnswer": "B",
+        "explanation": "Il cloud storage permette di archiviare e accedere ai dati su server remoti tramite Internet."
     }
 ]
 
