@@ -3,11 +3,20 @@ let currentQuestionIndex = 0;
 let score = 0;
 const totalQuestions = 30;
 
+// Funzione per mescolare senza ripetizioni
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 // Carica il file JSON
 fetch('question.json')
     .then(response => response.json())
     .then(data => {
-        questions = data.sort(() => 0.5 - Math.random()).slice(0, totalQuestions); // Domande casuali
+        questions = shuffle(data).slice(0, totalQuestions);
         startQuiz();
     })
     .catch(error => console.error('Errore nel caricamento del file JSON:', error));
@@ -19,14 +28,14 @@ function startQuiz() {
     document.getElementById('final-score').textContent = '';
     document.getElementById('result').classList.add('hidden');
     document.getElementById('quiz-container').classList.remove('hidden');
-    document.getElementById('next-question').classList.add('hidden'); // Nasconde il pulsante "Prosegui"
+    document.getElementById('feedback').textContent = ''; // Resetta il feedback
     showQuestion();
 }
 
 // Mostra la domanda corrente
 function showQuestion() {
     if (currentQuestionIndex >= questions.length) {
-        endGame(); // Mostra il messaggio solo alla fine
+        endGame();
         return;
     }
 
@@ -34,11 +43,12 @@ function showQuestion() {
     document.getElementById('question').textContent = question.question;
     const answersElement = document.getElementById('answers');
     answersElement.innerHTML = ''; // Reset delle risposte
+    document.getElementById('feedback').textContent = ''; // Nasconde feedback precedente
 
-    // Visualizza le risposte nell'ordine originale (A, B, C, D)
+    // Visualizza le risposte senza lettere precedenti
     Object.entries(question.options).forEach(([key, answer]) => {
         const button = document.createElement('button');
-        button.textContent = `${key}: ${answer}`;
+        button.textContent = `${answer}`; // Mostra solo la risposta
         button.addEventListener('click', () => checkAnswer(key));
         answersElement.appendChild(button);
     });
@@ -53,9 +63,9 @@ function checkAnswer(selectedKey) {
     const answers = document.querySelectorAll('.answers button');
     answers.forEach(button => {
         button.disabled = true;
-        if (button.textContent.startsWith(question.correctAnswer)) {
+        if (button.textContent === question.options[question.correctAnswer]) {
             button.classList.add('correct');
-        } else if (button.textContent.startsWith(selectedKey)) {
+        } else if (question.options[selectedKey] === button.textContent) {
             button.classList.add('incorrect');
         }
     });
@@ -64,7 +74,10 @@ function checkAnswer(selectedKey) {
         score++;
     }
 
-    // Mostra il pulsante "Prosegui" per passare alla domanda successiva
+    // Mostra solo la spiegazione come feedback
+    const feedbackElement = document.getElementById('feedback');
+    feedbackElement.textContent = question.explanation;
+
     document.getElementById('next-question').classList.remove('hidden');
 }
 
@@ -72,11 +85,6 @@ function checkAnswer(selectedKey) {
 document.getElementById('next-question').addEventListener('click', () => {
     currentQuestionIndex++;
     showQuestion();
-});
-
-// Pulsante di reset (Resetta il quiz)
-document.getElementById('restart').addEventListener('click', () => {
-    startQuiz(); // Riavvia il quiz
 });
 
 // Mostra i risultati finali solo alla fine
