@@ -2759,7 +2759,7 @@
         },
         "correctAnswer": "B",
         "explanation": "I sistemi operativi distribuiti bilanciano il carico di lavoro tra più CPU per aumentare le prestazioni e la scalabilità."
-    }.
+    },
     {
         "id": 231,
         "question": "Qual è lo svantaggio principale dell'architettura monolitica?",
