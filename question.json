@@ -3122,138 +3122,122 @@
     },
     {
         "id": 261,
-        "question": "Qual è il protocollo principale utilizzato per l'invio di email?",
+        "question": "Perché i pacchetti non seguono sempre il percorso più breve?",
         "options": {
-            "A": "FTP",
-            "B": "SMTP",
-            "C": "HTTP",
-            "D": "POP3"
+            "A": "A causa di guasti",
+            "B": "Per bilanciare il carico",
+            "C": "Per motivi di sicurezza",
+            "D": "Per evitare costi"
         },
         "correctAnswer": "B",
-        "explanation": "SMTP (Simple Mail Transfer Protocol) è il protocollo standard per l'invio di email tra server."
+        "explanation": "I pacchetti viaggiano lungo percorsi diversi per ottimizzare il carico di rete."
     },
     {
         "id": 262,
-        "question": "Qual è la funzione principale di un firewall?",
+        "question": "Quale tecnologia consente pagamenti tramite dispositivi vicini?",
         "options": {
-            "A": "Aumentare la velocità della rete",
-            "B": "Bloccare accessi non autorizzati",
-            "C": "Gestire indirizzi IP",
-            "D": "Creare copie di backup"
+            "A": "ZigBee",
+            "B": "NFC",
+            "C": "Bluetooth",
+            "D": "Ethernet"
         },
         "correctAnswer": "B",
-        "explanation": "Il firewall protegge la rete monitorando e controllando il traffico in entrata e in uscita."
+        "explanation": "Near Field Communication è usata nei pagamenti contactless."
     },
     {
         "id": 263,
-        "question": "Qual è la caratteristica principale della memoria volatile?",
+        "question": "Come la capacità di trasmissione influenza la rete?",
         "options": {
-            "A": "Mantiene i dati anche senza alimentazione elettrica",
-            "B": "Perde i dati quando viene tolta l'alimentazione",
-            "C": "È utilizzata solo per l'archiviazione permanente",
-            "D": "Non è accessibile dalla CPU"
+            "A": "Determina la velocità massima di trasmissione dei dati.",
+            "B": "Migliora la qualità del software.",
+            "C": "Riduce il numero di archi necessari.",
+            "D": "Influenza solo i dispositivi wireless."
         },
-        "correctAnswer": "B",
-        "explanation": "La memoria volatile, come la RAM, perde i dati quando non è alimentata."
+        "correctAnswer": "A",
+        "explanation": "La capacità di trasmissione determina la velocità con cui i dati possono essere trasmessi."
     },
     {
         "id": 264,
-        "question": "Che cosa rappresenta un indirizzo IP?",
+        "question": "Quali vantaggi hanno portato i sistemi Peer-to-Peer (P2P)?",
         "options": {
-            "A": "Un indirizzo fisico della scheda di rete",
-            "B": "Un identificatore unico di un dispositivo su una rete",
-            "C": "Un protocollo per il trasferimento di file",
-            "D": "Un codice per crittografare i dati"
+            "A": "Migliore velocità internet.",
+            "B": "Condivisione diretta di file e comunicazione anonima.",
+            "C": "La creazione di social network.",
+            "D": "Un accesso più rapido ai browser."
         },
         "correctAnswer": "B",
-        "explanation": "Un indirizzo IP identifica in modo univoco un dispositivo su una rete."
+        "explanation": "I sistemi P2P hanno permesso la condivisione diretta tra dispositivi."
     },
     {
         "id": 265,
-        "question": "Qual è l'obiettivo principale della crittografia?",
+        "question": "Qual è uno svantaggio dell'accesso satellitare a Internet?",
         "options": {
-            "A": "Accelerare il trasferimento dei dati",
-            "B": "Proteggere le informazioni garantendo riservatezza e integrità",
-            "C": "Comprimere i file per il trasferimento",
-            "D": "Creare backup automatici"
+            "A": "Velocità troppo alta.",
+            "B": "Costo elevato e latenza maggiore.",
+            "C": "Non può connettere dispositivi mobili.",
+            "D": "Non consente l'accesso notturno."
         },
         "correctAnswer": "B",
-        "explanation": "La crittografia assicura che solo i destinatari autorizzati possano accedere alle informazioni."
+        "explanation": "L'accesso satellitare è costoso e presenta problemi di latenza."
     },
     {
         "id": 266,
-        "question": "Qual è il formato standard per la trasmissione di dati nel Web semantico?",
+        "question": "Qual è uno svantaggio della rete autostradale come metafora della rete?",
         "options": {
-            "A": "JSON",
-            "B": "XML",
-            "C": "RDF",
-            "D": "SQL"
+            "A": "Non considera la modularità.",
+            "B": "Non rappresenta le differenze hardware.",
+            "C": "Non mostra la variabilità del traffico dati.",
+            "D": "Non illustra l'importanza dei protocolli."
         },
         "correctAnswer": "C",
-        "explanation": "RDF (Resource Description Framework) è il formato standard per descrivere dati nel Web semantico."
+        "explanation": "La rete autostradale non rappresenta accuratamente la variabilità del traffico dati."
     },
     {
         "id": 267,
-        "question": "Che cos'è un DNS (Domain Name System)?",
+        "question": "Perché gli indirizzi IPv4 sono esauriti?",
         "options": {
-            "A": "Un sistema per gestire le connessioni Wi-Fi",
-            "B": "Un protocollo per trasferire dati",
-            "C": "Un sistema per tradurre nomi di dominio in indirizzi IP",
-            "D": "Un algoritmo di compressione"
+            "A": "Sono limitati a soli 128 indirizzi univoci.",
+            "B": "Sono insufficienti per il numero crescente di dispositivi connessi.",
+            "C": "Sono obsoleti per reti wireless.",
+            "D": "Sono incompatibili con i moderni protocolli di rete."
         },
-        "correctAnswer": "C",
-        "explanation": "Il DNS traduce i nomi di dominio (es. www.esempio.com) in indirizzi IP leggibili dalla rete."
+        "correctAnswer": "B",
+        "explanation": "Gli indirizzi Internet IPv4 non allocati si sono esauriti nel 2011."
     },
     {
         "id": 268,
-        "question": "Qual è il vantaggio principale dell'utilizzo di una VPN?",
+        "question": "Cosa rappresenta il Web of Things?",
         "options": {
-            "A": "Migliora la velocità di connessione",
-            "B": "Garantisce maggiore privacy e sicurezza",
-            "C": "Riduce il consumo di dati mobili",
-            "D": "Blocca pubblicità indesiderate"
+            "A": "Una rete solo per dispositivi mobili.",
+            "B": "La connessione di oggetti fisici con il web.",
+            "C": "Un sistema di crittografia avanzata.",
+            "D": "Un'architettura senza server."
         },
         "correctAnswer": "B",
-        "explanation": "Una VPN (Virtual Private Network) protegge i dati crittografando la connessione e nascondendo l'indirizzo IP."
+        "explanation": "Il Web of Things collega oggetti fisici al web per interagire e ottenere informazioni su di essi."
     },
     {
         "id": 269,
-        "question": "Qual è la funzione principale di un server web?",
+        "question": "Cosa definisce il modello request-response in HTTP?",
         "options": {
-            "A": "Memorizzare dati in modo permanente",
-            "B": "Fornire pagine web ai client che le richiedono",
-            "C": "Creare database dinamici",
-            "D": "Eseguire programmi lato client"
+            "A": "La sequenza di interazioni tra client e server.",
+            "B": "La modalità di memorizzazione delle richieste.",
+            "C": "L'invio di immagini tramite HTTP.",
+            "D": "L'accesso diretto al database del server."
         },
-        "correctAnswer": "B",
-        "explanation": "Un server web invia contenuti richiesti dai browser dei client, come pagine HTML."
+        "correctAnswer": "A",
+        "explanation": "Il modello request-response stabilisce come client e server scambiano richieste e risposte."
     },
     {
         "id": 270,
-        "question": "Che cosa indica il termine \"cloud storage\"?",
+        "question": "Qual è il processo principale di un motore di ricerca?",
         "options": {
-            "A": "La memorizzazione di dati in dispositivi locali",
-            "B": "L'archiviazione di dati su server remoti accessibili via Internet",
-            "C": "L'archiviazione temporanea di dati",
-            "D": "La crittografia di file in locale"
+            "A": "Creare contenuti per siti web.",
+            "B": "Classificare e indicizzare documenti per la ricerca.",
+            "C": "Memorizzare i dati di navigazione degli utenti.",
+            "D": "Generare pagine web statiche."
         },
         "correctAnswer": "B",
-        "explanation": "Il cloud storage permette di archiviare e accedere ai dati su server remoti tramite Internet."
+        "explanation": "I motori di ricerca indicizzano documenti per facilitare la ricerca basata su parole chiave."
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
