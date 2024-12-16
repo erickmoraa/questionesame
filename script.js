@@ -29,10 +29,10 @@ fetch('question.json')
 
         // Seleziona casualmente le domande dai gruppi
         const selectedQuestions = [
-            ...getRandomQuestions(group1, 6),  // 6 domande dal gruppo 1
-            ...getRandomQuestions(group2, 7), // 7 domande dal gruppo 2
+            ...getRandomQuestions(group1, 7),  // 6 domande dal gruppo 1
+            ...getRandomQuestions(group2, 8), // 7 domande dal gruppo 2
             ...getRandomQuestions(group3, 10), // 10 domande dal gruppo 3
-            ...getRandomQuestions(group4, 7)  // 7 domande dal gruppo 4
+            ...getRandomQuestions(group4, 5)  // 7 domande dal gruppo 4
         ];
 
         // Mescola le domande selezionate
